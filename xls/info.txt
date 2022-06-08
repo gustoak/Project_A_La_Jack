@@ -1,0 +1,5 @@
+brand,name,description,price,quantity
+M Dias Branco SA,Nikito,Bolacha3,100
+Fazenda do Ze	Ovo,Ovo Branco,2,300
+Nestle,KitKat	Chocolate,5,500
+Bombril SA,Esponja,Esponja de Aco,1,2000
